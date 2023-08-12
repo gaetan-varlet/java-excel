@@ -31,7 +31,7 @@ avantages du XLSX vs XLS :
 - **Cell :** représente une cellule dans une ligne d'une feuille
 - **CellStyle** : pour manipuler le style des cellules
 
-## Les classes
+## Les classes
 
 - les classes **XLS** : HSSFWorkbook, HSSFSheet, HSSFRow, HSSFCell
 - les casses **XLSX** : XSSFWorkbook, XSSFSheet, XSSFRow, XSSFCell
@@ -50,7 +50,7 @@ avantages du XLSX vs XLS :
 
 https://www.javatpoint.com/how-to-read-excel-file-in-java
 
-## Ecrire un fichier Excel
+## Ecrire un fichier Excel
 
 - https://www.baeldung.com/java-microsoft-excel : lecture et écriture d'un fichier simple + comparaison autres bibliothèques
 - https://www.geeksforgeeks.org/how-to-write-data-into-excel-sheet-using-java/ : exemple d'écriture avec une boucle d'une liste
