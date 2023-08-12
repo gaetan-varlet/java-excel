@@ -55,3 +55,7 @@ https://www.javatpoint.com/how-to-read-excel-file-in-java
 - https://www.baeldung.com/java-microsoft-excel : lecture et écriture d'un fichier simple + comparaison autres bibliothèques
 - https://www.geeksforgeeks.org/how-to-write-data-into-excel-sheet-using-java/ : exemple d'écriture avec une boucle d'une liste
 - https://www.codejava.net/coding/how-to-write-excel-files-in-java-using-apache-poi : exemple un peu plus complet
+
+## Fusionner des cellules
+
+- https://www.baeldung.com/java-apache-poi-merge-cells
